@@ -9,3 +9,4 @@
  clear
  history
  git add .
+this is some new changes
