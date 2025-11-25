@@ -1,0 +1,11 @@
+ git push origin main
+ git push origin master
+ git history
+ git --help
+ history
+ git log --since="2 days ago" --oneline --decorate --graph
+ history | grep git
+ cat ~/.bash_history
+ clear
+ history
+ git add .
